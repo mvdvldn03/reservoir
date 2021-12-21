@@ -1,2 +1,6 @@
 # reservoir
-Reservoir Computer Recreation Used on a Sample Lorenz System
+Reservoir Computer recreation for undergrad research project with Georgia Tech students
+
+Tools Used:  
+Python (NumPy, Matplotlib, SciPy)  
+MATLAB
